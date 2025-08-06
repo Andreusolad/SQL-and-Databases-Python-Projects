@@ -1,0 +1,7 @@
+Viewstudents (ID, name, course, phone)
+Insert record
+Update record
+Delete record
+Search record
+Sort records
+PyQt6~=6.9.1
